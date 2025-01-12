@@ -5,3 +5,6 @@ Welcome
 Format
 Welcome to a.txt
 hello java
+what i do
+can you see
+
